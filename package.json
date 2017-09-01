@@ -1,0 +1,19 @@
+{
+  "name": "realm-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js Realm project.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "nodemon": "^1.11.0",
+    "realm": "^1.10.3"
+  }
+}
